@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "mesFootprint")(type "KiCad")(uri "${KIPRJMOD}/mesFootprint.pretty")(options "")(descr ""))
+  (lib (name "maLibrairie2")(type "KiCad")(uri "${KIPRJMOD}/maLibrairie2.pretty")(options "")(descr ""))
+)

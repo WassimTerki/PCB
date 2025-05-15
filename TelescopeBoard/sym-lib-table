@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-01-27_14-31-47")(type "KiCad")(uri "C:/Users/e1983979/Downloads/LD1117S33CTR/KiCADv6/2025-01-27_14-31-47.kicad_sym")(options "")(descr ""))
+  (lib (name "Notrelibrairie")(type "KiCad")(uri "${KIPRJMOD}/Notrelibrairie.kicad_sym")(options "")(descr ""))
+)
